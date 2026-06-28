@@ -1,0 +1,14 @@
+venv/
+.venv/
+.venv1/
+__pycache__/
+*.pyc
+
+.idea/
+
+streamlit.err.log
+streamlit.out.log
+
+*.zip
+
+.env
